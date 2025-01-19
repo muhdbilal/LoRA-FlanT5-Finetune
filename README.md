@@ -1,6 +1,6 @@
 # LoRA Flan T5 Finetune
 
-This repo hosts an example of adding in LoRA (Low Rank Adaptation) layers in Google's Flan T5 model and evaluates its performance for news summrisation.
+This repo hosts an example of adding LoRA (Low Rank Adaptation) layers in Google's Flan T5 model and evaluates its performance for news summarisation.
 The data set used is the  [CNN/Dailymail dataset](https://huggingface.co/datasets/abisee/cnn_dailymail)
 
 ### What are LoRA (Low Rank Adaptation)
